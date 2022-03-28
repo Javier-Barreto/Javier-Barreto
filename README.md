@@ -1,8 +1,8 @@
 ### Hello, I'm Javier Barreto 👋
 
-<h2>About me 😁</h2>
+About me 😁
 
-<h2>Contact me: 💻</h2>
+You cand find me:
 - [Linkedin](https://www.linkedin.com/in/javier-barreto-231564227/)
 
 <!--
