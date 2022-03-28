@@ -8,7 +8,7 @@ const Javier-Barreto = {
 ```
 
 <h3>You cand find me:</h3>
-<p>- <a href="https://www.linkedin.com/in/javier-barreto-231564227/">Linkedin</a></p>
+<p>- <a href="https://www.linkedin.com/in/javier-barreto-231564227/" target="_blank">Linkedin</a></p>
 
 <!--
 **Javier-Barreto/Javier-Barreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
