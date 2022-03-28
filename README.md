@@ -2,18 +2,8 @@
 
 <h2>About me 😁</h2>
 
-<html>
-  <head>
-    <link href="./styles/README-styles.css" rel="stylesheet" type="text/css">
-  </head>
-  <body>
-    <h2>Contact me:</h2>
-    <div class="div">
-      - <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="4%" height="4%"> 
-      <p><a href="https://www.linkedin.com/in/javier-barreto-231564227/">Linkedin</a></p>
-    </div>
-  </body>
-</html>
+<h2>Contact me:</h2>
+- [Linedin](https://www.linkedin.com/in/javier-barreto-231564227/)
 
 <!--
 **Javier-Barreto/Javier-Barreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
