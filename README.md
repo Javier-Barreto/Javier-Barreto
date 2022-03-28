@@ -3,7 +3,7 @@
 <h2>About me 😁</h2>
 
 <h2>Contact me: 💻</h2>
-- [Linedin](https://www.linkedin.com/in/javier-barreto-231564227/)
+- [Linkedin](https://www.linkedin.com/in/javier-barreto-231564227/)
 
 <!--
 **Javier-Barreto/Javier-Barreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
