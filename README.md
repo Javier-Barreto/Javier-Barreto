@@ -2,7 +2,7 @@
 
 <h2>About me 😁</h2>
 
-<h2>Contact me: </h2>
+<h2>Contact me: 💻</h2>
 - [Linedin](https://www.linkedin.com/in/javier-barreto-231564227/)
 
 <!--
