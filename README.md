@@ -2,10 +2,15 @@
 
 <h2>About me 😁</h2>
 
+<html>
+  <head>
+  </head>
+  
+</html>
 <h2>Contact me:</h2>
 <div class="div">
-  <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="4%" height="4%"> 
-  <p>- <a href="https://www.linkedin.com/in/javier-barreto-231564227/">Linkedin</a></p>
+  - <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" width="4%" height="4%"> 
+  <p><a href="https://www.linkedin.com/in/javier-barreto-231564227/">Linkedin</a></p>
 </div>
 
 <!--
