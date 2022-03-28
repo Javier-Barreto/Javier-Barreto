@@ -2,7 +2,7 @@
 
 ```js
 const Javier-Barreto = {
-  code: [Javascript, HTML, CSS, react native],
+  code: [Javascript, HTML, CSS, React Native],
   tools: [React Native, Node]
 }
 ```
