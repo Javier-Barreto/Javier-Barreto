@@ -7,7 +7,7 @@ const Javier-Barreto = {
 }
 ```
 
-<h3>You cand find me:</h3>
+<h3>- 📫 How to reach me:</h3>
 <p>- <a href="https://www.linkedin.com/in/javier-barreto-231564227/">Linkedin</a></p>
 
 <!--
