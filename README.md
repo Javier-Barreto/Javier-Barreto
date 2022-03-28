@@ -1,6 +1,9 @@
 ### Hello, I'm Javier Barreto 👋
 
-About me 😁
+const Javier-Barreto = {
+  code: [Javascript, HTML, CSS, react native],
+  tools: [React Native, Node]
+}
 
 You cand find me:
 - [Linkedin](https://www.linkedin.com/in/javier-barreto-231564227/)
