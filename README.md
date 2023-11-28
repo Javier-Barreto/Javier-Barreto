@@ -6,9 +6,6 @@ const Javier-Barreto = {
   tools: [React Native, Node]
 }
 ```
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/640px-Unofficial_JavaScript_logo_2.svg.png" width="4%" height="4%">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/200px-HTML5_logo_and_wordmark.svg.png" width="4%" height="4%">
-
 
 <h3>📫 How to reach me:</h3>
 <p>- <a href="https://www.linkedin.com/in/jbm228">Linkedin</a></p>
