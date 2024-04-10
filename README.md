@@ -1,15 +1,3 @@
-### Hello, I'm Javier Barreto 👋
-
-```js
-const Javier-Barreto = {
-  code: [Javascript, HTML, CSS, React Native],
-  tools: [React Native, Node]
-}
-```
-
-<h3>📫 How to reach me:</h3>
-<p>- <a href="https://www.linkedin.com/in/jbm228">Linkedin</a></p>
-
 <!--
 **Javier-Barreto/Javier-Barreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -24,3 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello, I'm Javier Barreto 👋
+
+I'mm a software developer who always seeks to provide efficient solutions. Currently I have a strong focus on the development on web but I'm always open to learn new things.
+
+# Technologies and Tools
+- **Programming Languages:** JavaScript
+- **Frameworks:** React Native, React
+- **More:** Bootstrap, React Router, Redux
+- **Databases:** Firebase, MongoDB, SQL
+
+# Want to Get in Touch?
+- 📧 **Email**: [javierbarretocp@gmail.com](mailto:javierbarretocp@gmail.com)
+- 💼 **LinkedIn**: [linkedin.com/in/JavierBarreto](https://www.linkedin.com/in/jbm228/)
