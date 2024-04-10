@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 # Hello, I'm Javier Barreto 👋
 
-I'mm a software developer who always seeks to provide efficient solutions. Currently I have a strong focus on the development on web but I'm always open to learn new things.
+I'm a software developer who always seeks to provide efficient solutions. Currently I have a strong focus on the development on web but I'm always open to learn new things.
 
 # Technologies and Tools
 - **Programming Languages:** JavaScript
