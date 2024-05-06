@@ -18,7 +18,7 @@ I'm a software developer who always seeks to provide efficient solutions. Curren
 
 # Technologies and Tools
 - **Programming Languages:** JavaScript
-- **Frameworks:** React Native, React, C#
+- **Frameworks:** React Native, React, C#, Python
 - **More:** Bootstrap
 - **Databases:** Firebase, SQL
 
