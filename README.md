@@ -18,9 +18,9 @@ I'm a software developer who always seeks to provide efficient solutions. Curren
 
 # Technologies and Tools
 - **Programming Languages:** JavaScript
-- **Frameworks:** React Native, React, C#, Python
+- **Frameworks:** React Native, React, Ruby on Rails, C#, Python
 - **More:** Bootstrap
-- **Databases:** Firebase, SQL
+- **Databases:** Firebase, SQL, MySQL
 
 # Want to Get in Touch?
 - 📧 **Email**: [javierbarretocp@gmail.com](mailto:javierbarretocp@gmail.com)
